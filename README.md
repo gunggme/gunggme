@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=150&section=header&text=Hello!!&fontSize=50">
+  <img src="https://capsule-render.vercel.app/api?type=Softr&color=auto&height=150&section=header&text=Hello!!&fontSize=50">
 
   ```C
   printf("Hello, World!");
