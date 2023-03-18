@@ -1,14 +1,5 @@
 <div align="center">
-  <img svg width="400" height="80" onclick="changeColor()">
-  <rect id="myRect" width="100%" height="100%" fill="#3A3A3A"/>
-  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="#000000" font-size="30">gunggme&apos;s github</text>
-  <script>
-    function changeColor() {
-      var randomColor = Math.floor(Math.random()*16777215).toString(16);
-      document.getElementById(&quot;myRect&quot;).setAttribute(&quot;fill&quot;, &quot;#&quot; + randomColor);
-    }
-  </script>
-</svg>
+  <img svg = "https://img.shields.io/badge/My%20Title-Awesome-brightgreen?style=flat-square">
 
   
   ```C
